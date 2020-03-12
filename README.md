@@ -46,5 +46,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Pakistan
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
 
+### Peru
+* Two rivers are orange (26-02-2020), but could not be reflected in the world map.
+* The border with colombia is orange (26-02-2020), but could not be reflected in the world map.
+
 ### Taiwan
 * Taiwan has its own travel advice map, but is also included in the China map. Because Taiwan is de facto independent, I only use the Taiwan map.
