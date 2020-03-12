@@ -13,6 +13,8 @@ Sources for the maps:
 ## Notes (as well as a to-do list):
 Because I rely on the natural earth data, specificically the [admin 1](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/), the disputed territories and the populated places, this makes it harder to perfectly mirror the maps made by the Dutch Ministry of Foreign Affairs. Therefore I have made a list of all countries where this is not (yet) perfect.
 
+General note, I only started after the 10th of March of 2020. So everything before this, is a bit uncertain.
+
 ### Bolivia
 * A small part of Cochabamba is red after 21 February 2020.
 
