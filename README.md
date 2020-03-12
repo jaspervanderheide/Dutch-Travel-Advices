@@ -53,6 +53,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Libia
 * A lot should be changed still
 
+### Malaysia
+* Sabah is partly yellow and orange.
+
 ### Marocco
 * Some cities (including El Hoceima) do not appear in the natural earth dataset, but have a yellow travel advice.
 
