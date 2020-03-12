@@ -22,6 +22,10 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
 * Taiwan has its own travel advice map, but is also included in the China map. Because Taiwan is de facto independent, I only use the Taiwan map.
 
+### Ethiopia
+* Part of Somali region is orange.
+* A lot of stuff is actually transregions.
+
 ### India
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
 
