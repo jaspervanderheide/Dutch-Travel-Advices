@@ -38,6 +38,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * A small area near Fukushima should be red.
 * I'm not entirely sure when it switched from green to yellow in February/March.
 
+### Lebanon
+* The map is very colorful, which could not completely be mirrored.
+
 ### Libia
 * A lot should be changed still
 
