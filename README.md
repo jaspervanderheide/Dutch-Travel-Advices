@@ -65,6 +65,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * The border with Yemen is red (02-03-2020), but could not be reflected in the world map.
 * The border with Iraq is orange (02-03-2020), but could not be reflected in the world map.
 
+### Somalia
+* The cities of Berbera and Hargeysa are orange, but aren't in the dataset.
+
 ### Taiwan
 * Taiwan has its own travel advice map, but is also included in the China map. Because Taiwan is de facto independent, I only use the Taiwan map.
 
