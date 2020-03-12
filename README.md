@@ -47,6 +47,10 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Marocco
 * Some cities (including El Hoceima) do not appear in the natural earth dataset, but have a yellow travel advice.
 
+### Mexico
+* The border between US and Mexico is not in the world map (except for some cities)
+* The city of Ixtapa
+
 ### North Macedonia
 * The northern border should be yellow.
 
