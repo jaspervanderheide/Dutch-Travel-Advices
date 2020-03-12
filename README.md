@@ -29,6 +29,11 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### India
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
 
+### Indonesia
+* Vulcanoes could not be added
+* I could not find the city Donggala
+* An area in Antan Jaya is orange which is not in the world map
+
 
 ### Iran
 * Individual cities should be added
