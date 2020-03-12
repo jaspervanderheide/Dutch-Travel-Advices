@@ -16,6 +16,13 @@ Because I rely on the natural earth data, specificically the [admin 1](https://w
 ### Bolivia
 * Small area should be changed
 
+### China
+* The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
+
+### India
+* The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
+
+
 ### Iran
 * Individual cities should be added
 * Over time has not been incoorperated yet.
@@ -31,3 +38,6 @@ Because I rely on the natural earth data, specificically the [admin 1](https://w
 
 ### North Macedonia
 * The northern border should be yellow.
+
+### Pakistan
+* The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
