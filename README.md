@@ -34,7 +34,7 @@ Because I rely on the natural earth data, specificically the [admin 1](https://w
 * A lot should be changed still
 
 ### Marocco
-* Add individual cities
+* Some cities (including El Hoceima) do not appear in the natural earth dataset, but have a yellow travel advice.
 
 ### North Macedonia
 * The northern border should be yellow.
