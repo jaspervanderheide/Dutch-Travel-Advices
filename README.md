@@ -31,6 +31,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * Over time has not been incoorperated yet.
 * Abu Musa, Greater Tunb and Lesser Tunb are claimed by UAE, but de facto governed by Iran. Therefor, I will follow the travel advice provided on the Iran page.
 
+### Iraq
+* The borders around Kurdistan are red (10-03-2020), but this has not been included in the world map.
+
 ### Japan
 * A small area near Fukushima should be red.
 * I'm not entirely sure when it switched from green to yellow in February/March.
