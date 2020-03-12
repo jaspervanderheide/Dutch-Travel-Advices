@@ -29,6 +29,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Iran
 * Individual cities should be added
 * Over time has not been incoorperated yet.
+* Abu Musa, Greater Tunb and Lesser Tunb are claimed by UAE, but de facto governed by Iran. Therefor, I will follow the travel advice provided on the Iran page.
 
 ### Japan
 * A small area near Fukushima should be red.
@@ -56,3 +57,6 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### Taiwan
 * Taiwan has its own travel advice map, but is also included in the China map. Because Taiwan is de facto independent, I only use the Taiwan map.
+
+### UAE
+* Abu Musa, Greater Tunb and Lesser Tunb are claimed by UAE, but de facto governed by Iran. Therefor, I will follow the travel advice provided on the Iran page.
