@@ -16,7 +16,7 @@ url_with_all_countries = "https://www.nederlandwereldwijd.nl/help/in-welke-taal-
 r = requests.get(url_with_all_countries)
 html_content = r.text
 soup = BeautifulSoup(html_content, 'lxml')
-list_of_kaarten =os.listdir('maps/')
+list_of_kaarten =os.listdir('original_maps/')
 
 all_countries = soup.select("a[href*=\/landen\/]")
 for i in tqdm(all_countries):
@@ -42,14 +42,14 @@ for i in tqdm(all_countries):
         continue
     country_name = image_url.split('/')[-1].split('_')[1]
     files_of_country = [x for x in list_of_kaarten if country_name+"_" in x]
-    targeturl = "maps/"+country_name+'_'+year+month+day+".png"
+    targeturl = "original_maps/"+country_name+'_'+year+month+day+".png"
     if len(files_of_country) > 0:
         last_file = max(files_of_country)
         with open(targeturl[8:], 'wb') as f:
             resp = requests.get("https://www.nederlandwereldwijd.nl"+image_url, verify=False)
             f.write(resp.content)
         online = cv2.imread(targeturl[8:])
-        last = cv2.imread("maps/"+last_file)
+        last = cv2.imread("original_maps/"+last_file)
         os.remove(targeturl[8:])
         if online.shape == last.shape:
             difference = cv2.subtract(online, last)        
