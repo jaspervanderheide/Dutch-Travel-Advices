@@ -4,7 +4,11 @@ This is a hobby project to visualize the travel advices given by the Dutch Minis
 
 This is not in any way linked to the Dutch Ministry of Foreign Affairs (sorry for scraping your website!).
 
+Below a gif version
 ![](compressed.gif)
+
+Or below this the most recent jpg version:
+![](most_recent_map.jpg)
 
 Sources for the maps:
 * [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
