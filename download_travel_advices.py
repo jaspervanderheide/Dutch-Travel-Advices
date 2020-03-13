@@ -58,16 +58,15 @@ for i in tqdm(all_countries):
     country_name = image_url.split('/')[-1].split('_')[1]
     files_of_country = [x for x in list_of_kaarten if country_name+"_" in x]
     targeturl = "original_maps/"+country_name+'_'+year+month+day+".png"
-    
     # Check if the most recent file in the folder is not the same as the online version
     if len(files_of_country) > 0:
         last_file = max(files_of_country)
-        with open(targeturl[8:], 'wb') as f:
+        with open(targeturl[14:], 'wb') as f:
             resp = requests.get("https://www.nederlandwereldwijd.nl"+image_url, verify=False)
             f.write(resp.content)
-        online = cv2.imread(targeturl[8:])
+        online = cv2.imread(targeturl[14:])
         last = cv2.imread("original_maps/" + last_file)
-        os.remove(targeturl[8:])
+        os.remove(targeturl[14:])
         if online.shape == last.shape:
             difference = cv2.subtract(online, last)        
             b, g, r = cv2.split(difference)
