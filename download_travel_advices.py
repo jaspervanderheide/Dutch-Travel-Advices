@@ -36,14 +36,14 @@ for i in tqdm(all_countries):
     html_content = r.text
     soup = BeautifulSoup(html_content, 'lxml')
     image_url = soup.select_one("img[src*=reisadviezen][src*=png]")
-    image_url = image_url["src"]
+    
     
     # Skip if no image was found
     if image_url ==None:
         print("No map found for: " + country_url)
         continue
         
-    
+    image_url = image_url["src"]
     
     ## Get the date when it was last changed
     date = re.findall("Laatst gewijzigd op:&nbsp;(\d\d-\d\d-\d\d\d\d)", html_content)[0]
