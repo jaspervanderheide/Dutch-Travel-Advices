@@ -29,6 +29,10 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * Part of Somali region is orange.
 * A lot of stuff is actually transregions.
 
+### Egypt
+* Not all regions have only one colour.
+* The Hala'ib triangle should be red, but I don't have a polygon for that yet.
+
 ### Georgia
 * Borders are incorrect.
 
