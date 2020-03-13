@@ -15,6 +15,9 @@ Because I rely on the natural earth data, specificically the [admin 1](https://w
 
 General note, I only started after the 10th of March of 2020. So everything before this, is a bit uncertain.
 
+### Armenia
+* Border zones could not be incooporated.
+
 ### Bolivia
 * A small part of Cochabamba is red after 21 February 2020.
 
@@ -57,7 +60,8 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * The map is very colorful, which could not completely be mirrored.
 
 ### Libia
-* A lot should be changed still
+* Lot of provinces have different colors within one.
+* I don't have the city information from before 20 February.
 
 ### Malaysia
 * Sabah is partly yellow and orange.
