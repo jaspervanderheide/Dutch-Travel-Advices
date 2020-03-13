@@ -26,6 +26,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * Part of Somali region is orange.
 * A lot of stuff is actually transregions.
 
+### Georgia
+* Borders are incorrect.
+
 ### India
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
 
@@ -42,6 +45,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### Iraq
 * The borders around Kurdistan are red (10-03-2020), but this has not been included in the world map.
+
+### Israel
+* Golan heights
 
 ### Japan
 * A small area near Fukushima should be red.
@@ -78,6 +84,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * The border with Iraq is orange (02-03-2020), but could not be reflected in the world map.
 
 ### Somalia
+
+### Syria
+* Golan heights
 
 ### Taiwan
 * Taiwan has its own travel advice map, but is also included in the China map. Because Taiwan is de facto independent, I only use the Taiwan map.
