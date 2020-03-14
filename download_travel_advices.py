@@ -73,8 +73,6 @@ for i in tqdm(all_countries):
             if cv2.countNonZero(b) == 0 and cv2.countNonZero(g) == 0 and cv2.countNonZero(r) == 0:
                 continue
                 
-    # Download image if it does not exist yet
-    if not targeturl[8:] in list_of_kaarten:
-        with open(targeturl, 'wb') as f:
-            resp = requests.get("https://www.nederlandwereldwijd.nl" + image_url, verify=False)
-            f.write(resp.content)
+    with open(targeturl, 'wb') as f:
+        resp = requests.get("https://www.nederlandwereldwijd.nl" + image_url, verify=False)
+        f.write(resp.content)
