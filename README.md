@@ -4,6 +4,11 @@ This is a hobby project to visualize the travel advices given by the Dutch Minis
 
 This is not in any way linked to the Dutch Ministry of Foreign Affairs (sorry for scraping your website!).
 
+Sources for the maps:
+* [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
+* [The twitter page of the Dutch Ministry of Foreign Affairs](https://twitter.com/247BZ). This was relevant, because I wanted some older data which in most cases they had.
+
+## :chart_with_upwards_trend: Maps and plots
 Below a gif version:
 ![](compressed.gif)
 
@@ -13,9 +18,7 @@ Or below this the most recent jpg version:
 Or want more quantified way? Here how much area is what color in the map (excluding cities):
 ![](area_over_time.jpg)
 
-Sources for the maps:
-* [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
-* [The twitter page of the Dutch Ministry of Foreign Affairs](https://twitter.com/247BZ). This was relevant, because I wanted some older data which in most cases they had.
+
 
 ## Notes (as well as a to-do list):
 Because I rely on the natural earth data, specificically the [admin 1](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/), the disputed territories and the populated places, this makes it harder to perfectly mirror the maps made by the Dutch Ministry of Foreign Affairs. Therefore I have made a list of all countries where this is not (yet) perfect.
