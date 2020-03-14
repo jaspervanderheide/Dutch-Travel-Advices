@@ -4,11 +4,14 @@ This is a hobby project to visualize the travel advices given by the Dutch Minis
 
 This is not in any way linked to the Dutch Ministry of Foreign Affairs (sorry for scraping your website!).
 
-Below a gif version
+Below a gif version:
 ![](compressed.gif)
 
 Or below this the most recent jpg version:
 ![](most_recent_map.jpg)
+
+Or want more quantified way? Here how much area is what color in the map (excluding cities):
+![](area_over_time.jpg)
 
 Sources for the maps:
 * [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
@@ -80,6 +83,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Mexico
 * The border between US and Mexico is not in the world map (except for some cities)
 * The city of Ixtapa
+
+### Myanmar
+* Not all cities could be found
 
 ### North Macedonia
 * The northern border should be yellow.
