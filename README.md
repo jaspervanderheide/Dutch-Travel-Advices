@@ -114,3 +114,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### UAE
 * Abu Musa, Greater Tunb and Lesser Tunb are claimed by UAE, but de facto governed by Iran. Therefor, I will follow the travel advice provided on the Iran page.
+
+### Hong Kong
+### Macau
+* duplicate with China
