@@ -1,0 +1,9 @@
+geopandas
+matplotlib
+tqdm
+pygifsicle
+imageio
+pandas
+numpy
+bs4
+cv2
