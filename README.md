@@ -48,12 +48,12 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### India
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
+* Jammu and Kashmir overlap with Pakistan
 
 ### Indonesia
 * Vulcanoes could not be added
 * I could not find the city Donggala
 * An area in Antan Jaya is orange which is not in the world map
-
 
 ### Iran
 * Individual cities should be added
@@ -95,6 +95,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### Pakistan
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
+* Jammu and Kashmir overlap with India
 
 ### Peru
 * Two rivers are orange (26-02-2020), but could not be reflected in the world map.
