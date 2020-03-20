@@ -66,6 +66,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Israel
 * Golan heights
 
+### Ivory Coast
+* Borders
+
 ### Japan
 * A small area near Fukushima should be red.
 * I'm not entirely sure when it switched from green to yellow in February/March.
