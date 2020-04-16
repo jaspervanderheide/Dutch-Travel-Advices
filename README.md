@@ -25,6 +25,10 @@ Because I rely on the natural earth data, specificically the [admin 1](https://w
 
 General note, I only started after the 10th of March of 2020. So everything before this, is a bit uncertain.
 
+### American Samao
+
+* The map of American Samao was missing between 13 March 2020 and 14 April 2020 (instead the map of american virgin islands was shown). Therefor it is shown as grey.
+
 ### Armenia
 * Border zones could not be incooporated.
 
