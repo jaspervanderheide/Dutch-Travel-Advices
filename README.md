@@ -16,7 +16,7 @@ Or below this the most recent jpg version:
 ![](most_recent_map.jpg)
 
 Or want more quantified way? Here how much area is what color in the map (excluding cities):
-![](area_over_time.jpg)
+![](area_over_time.png)
 
 
 
