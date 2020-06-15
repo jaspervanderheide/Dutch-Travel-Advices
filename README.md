@@ -18,6 +18,8 @@ Or below this the most recent jpg version:
 Or want more quantified way? Here how much area is what color in the map (excluding cities):
 ![](area_over_time.png)
 
+And another fun thing where I average them (which ofcourse should not be done with ordinal data, but fun nevertheless):
+![](average.png)
 
 
 ## Notes (as well as a to-do list):
