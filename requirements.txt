@@ -6,4 +6,4 @@ imageio
 pandas
 numpy
 bs4
-cv2
+opencv-python
