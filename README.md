@@ -13,10 +13,10 @@ Below a gif version:
 ![](compressed.gif)
 
 Or below this the most recent jpg version:
-![](most_recent_map.jpg)
+![](most_recent_map.png)
 
 Or want more quantified way? Here how much area is what color in the map (excluding cities):
-![](area_over_time.jpg)
+![](area_over_time.png)
 
 
 
