@@ -116,6 +116,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### Somalia
 
+### Spain
+* From 6-7, two small regions were orange. However, it was only possible to color the larger regions that those were part of as a whole.
+
 ### Syria
 * Golan heights
 
