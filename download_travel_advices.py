@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 
 ## Get all countries that have a travel advice
 url_with_all_countries = (
-    "https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land"
+    "https://www.nederlandwereldwijd.nl/reizen/reisadviezen"
 )
 r = requests.get(url_with_all_countries)
 html_content = r.text
