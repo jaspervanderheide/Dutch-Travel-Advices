@@ -8,7 +8,7 @@ Sources for the maps:
 * [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
 * [The twitter page of the Dutch Ministry of Foreign Affairs](https://twitter.com/247BZ). This was relevant, because I wanted some older data which in most cases they had.
 
-## :chart_with_upwards_trend: Maps and plots
+## Maps and plots
 Below a gif version:
 ![](compressed.gif)
 
@@ -52,6 +52,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 ### Georgia
 * Borders are incorrect.
 
+### Germany
+* (28/10/2020-now) The city of Aachen has orange travel advice, but is not in the list of cities.
+
 ### India
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
 * Jammu and Kashmir overlap with Pakistan
@@ -71,6 +74,9 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### Israel
 * Golan heights
+
+### Italy
+* (01/01/2020-now) The vulcanoes Vesuvius, Stromboli and Etna have red travel advices, could not be included in the world map.
 
 ### Ivory Coast
 * Borders
@@ -97,7 +103,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * The city of Ixtapa
 
 ### Myanmar
-* Not all cities could be found
+* (01/01/2020-now) Not all cities that have a travel advice different than their surrounding were in the list of cities.
 
 ### North Macedonia
 * The northern border should be yellow.
