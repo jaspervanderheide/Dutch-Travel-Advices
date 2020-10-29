@@ -29,7 +29,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### American Samao
 
-* (13/03/2020-14/04/2020) The map of American Samao was missing (instead the map of american virgin islands was shown). Therefor it is shown as grey.
+* _(13/03/2020-14/04/2020)_ The map of American Samao was missing (instead the map of american virgin islands was shown). Therefor it is shown as grey.
 
 ### Armenia
 * Border zones could not be incooporated.
@@ -53,7 +53,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * Borders are incorrect.
 
 ### Germany
-* (28/10/2020-now) The city of Aachen has orange travel advice, but is not in the list of cities.
+* _(28/10/2020-now)_ The city of Aachen has orange travel advice, but is not in the list of cities.
 
 ### India
 * The region Aksai Chin shows up in the maps of both Pakistan, China and India. Because it is de facto governed by China, the travel advice on the China page is chosen. This no endorsement.
@@ -76,7 +76,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * Golan heights
 
 ### Italy
-* (01/01/2020-now) The vulcanoes Vesuvius, Stromboli and Etna have red travel advices, could not be included in the world map.
+* _(01/01/2020-now)_ The vulcanoes Vesuvius, Stromboli and Etna have red travel advices, could not be included in the world map.
 
 ### Ivory Coast
 * Borders
@@ -103,7 +103,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 * The city of Ixtapa
 
 ### Myanmar
-* (01/01/2020-now) Not all cities that have a travel advice different than their surrounding were in the list of cities.
+* _(01/01/2020-now)_ Not all cities that have a travel advice different than their surrounding were in the list of cities.
 
 ### North Macedonia
 * The northern border should be yellow.
