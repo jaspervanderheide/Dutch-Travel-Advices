@@ -29,7 +29,7 @@ General note, I only started after the 10th of March of 2020. So everything befo
 
 ### American Samao
 
-* The map of American Samao was missing between 13 March 2020 and 14 April 2020 (instead the map of american virgin islands was shown). Therefor it is shown as grey.
+* (13/03/2020-14/04/2020) The map of American Samao was missing (instead the map of american virgin islands was shown). Therefor it is shown as grey.
 
 ### Armenia
 * Border zones could not be incooporated.
