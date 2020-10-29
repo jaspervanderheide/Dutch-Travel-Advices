@@ -6,7 +6,7 @@ This is not in any way linked to the Dutch Ministry of Foreign Affairs (sorry fo
 
 Sources for the maps:
 * [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
-* [The twitter page of the Dutch Ministry of Foreign Affairs](https://twitter.com/247BZ). This was relevant, because I wanted some older data which in most cases they had.
+* [The twitter page of the Dutch Ministry of Foreign Affairs](https://twitter.com/247BZ) (for some older data).
 
 ## Maps and plots
 Below a gif version:
