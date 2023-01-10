@@ -2,7 +2,7 @@
 
 This is a hobby project to visualize the travel advices given by the Dutch Ministry of Foreign Affairs, as well as learning more about creating maps (using geopandas) and creating gifs (using imageio).
 
-This is not in any way linked to the Dutch Ministry of Foreign Affairs (sorry for scraping your website!).
+This is not in any way linked to the Dutch Ministry of Foreign Affairs.
 
 Sources for the maps:
 * [The travel advice maps that can be found through this page](https://www.nederlandwereldwijd.nl/help/in-welke-taal-communiceert-welk-land).
